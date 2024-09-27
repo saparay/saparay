@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Mani Chandra Saparay 👋
 
-<!--
-**saparay/saparay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full Stack Developer with 2+ years of experience in building web applications using **.NET Core**, **React (TypeScript)**, **SQL**, and **Azure**. I am passionate about developing scalable, cloud-native applications and enjoy working on both front-end and back-end technologies.
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- **Backend**: `.NET Core`, `C#`, `ASP.NET Web API`, `Java`, `Springboot`
+- **Frontend**: `React`, `TypeScript`, `HTML`, `CSS`
+- **Database**: `SQL Server`, `Entity Framework Core`, `NoSQL`
+- **Cloud**: `Azure`, `Azure Functions`, `Azure App Services`, `Blob Storage`
+- **Tools**: `Git`, `Docker`, `CI/CD Pipelines`, `Azure DevOps`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📫 Let's Connect
