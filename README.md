@@ -1,6 +1,6 @@
 # Hi, I'm Mani Chandra Saparay 👋
 
-I'm a Full Stack Developer with 2+ years of experience in building web applications using **.NET Core**, **React (TypeScript)**, **SQL**, and **Azure**. I am passionate about developing scalable, cloud-native applications and enjoy working on both front-end and back-end technologies.
+I'm a Full Stack Developer with 3+ years of experience in building web applications using **.NET Core**, **React (TypeScript)**, **SQL**, and **Azure**. I am passionate about developing scalable, cloud-native applications and enjoy working on both front-end and back-end technologies.
 
 ## 🛠 Skills
 - **Backend**: `.NET Core`, `C#`, `ASP.NET Web API`, `Java`, `Python`
